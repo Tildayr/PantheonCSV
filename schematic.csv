@@ -1,3 +1,4 @@
 Schematic Name,Profession,Number of Materials,Materials,Dynamic Value
 "rod2",Weaponsmithing,2,"rod;another rod","Tildapal"
 "sword",Weaponsmithing,2,"hilt;blade","tildapal"
+"agi chest",Armorsmithing,2,"chest plate;rivet","tildapal"
